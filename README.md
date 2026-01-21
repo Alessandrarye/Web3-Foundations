@@ -1,6 +1,6 @@
-# Web3 Prep
+# Web3 Foundations
 
-Repository for prepping for an intensive Web3 bootcamp: tools, fundamentals, exercises, and notes.
+Repository for foundational learning and daily exercises covering JavaScript, Web3, backend, and blockchain concepts.
 
 ## Goals
 - Build comfort with Linux/WSL, Git/GitHub, and VS Code
@@ -46,7 +46,7 @@ Repository for prepping for an intensive Web3 bootcamp: tools, fundamentals, exe
 
 ## License
 Add a license file if needed (MIT recommended for learning repos).
-## Week-by-Week Web3 Prep Plan
+## Week-by-Week Web3 Foundations Plan
 
 This repository is organized as a structured, low-pressure preparation path for an intensive Web3 bootcamp. The goal is steady confidence, not rushing.
 
